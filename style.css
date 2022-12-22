@@ -1,0 +1,12 @@
+#image
+{
+width: 50%;
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 5vw auto 0 auto; 
+        border-color: black;
+        border-width: 10px;
+        border-style: solid;
+        border-radius: 10px;  
+}
