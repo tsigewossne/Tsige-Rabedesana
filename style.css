@@ -20,9 +20,21 @@ header {
     width: 100%;
     height: 19px;
   }
-  #navbar li a {
-float: right;
-right:70px;
+  ul{
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 0%;
+  }
+ul li{
+    display: inline;
+}
+a {
+    display: inline;
+    padding:16px;
+    background-color: #dddddd;
+    float:left;
+    margin-left: 50px;
   }
   #video{
     margin-top: 110px;
